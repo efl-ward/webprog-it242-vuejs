@@ -9,7 +9,7 @@
 export default {
   data() {
     return {
-      name: 'R',
+      name: 'Rambutan',
       message: 'I like Rambutan'
     }
   }
