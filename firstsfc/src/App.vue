@@ -1,7 +1,7 @@
 
 <template>
   <h1>Fruits I love and PersonalWeb</h1>
-  <Personal_Web/>
+  <PersonalProfile/>
   <food-item/>
   <food-item2/>
 
