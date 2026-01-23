@@ -1,18 +1,10 @@
+
 <template>
-  <h1>Food</h1>
+  <h1>Fruits I love and PersonalWeb</h1>
+  <Personal_Web/>
   <food-item/>
-  <food-item/>
-  <food-item/>
+  <food-item2/>
+
 </template>
 
 <script></script>
-
-<style>
-  #app > div {
-    border: dashed red 1px;
-    display: inline-block;
-    margin: 10px;
-    padding: 10px;
-    background-color: yellow;
-  }
-</style>

@@ -1,5 +1,5 @@
 <template>
-  <div class="chicken">
+  <div class="rambutan">
     <h2>{{ name }}</h2>
     <p>{{ message }}</p>
   </div>
@@ -9,19 +9,19 @@
 export default {
   data() {
     return {
-      name: 'McDonalds & Jollibee ',
-      message: 'I love this two fast food chain because im a big fan of their fries, burger and chicken!'
+      name: 'R',
+      message: 'I like Rambutan'
     }
   }
 };
 </script>
 
 <style>
-  #app > div {
-    border: dashed #fffb00 1px;
+  .rambutan {
+    border: dashed black 1px;
     display: inline-block;
     margin: 10px;
     padding: 10px;
-    background-color: red;
+    background-color: rgb(223, 147, 223);
   }
 </style>
