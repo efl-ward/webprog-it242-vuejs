@@ -1,7 +1,7 @@
 <template>
   <div class="personal-web">
     <header class="py-4 text-center">
-      <h1 class="fw-bold">Jul's Profile</h1>
+      <h1 class="fw-bold">Ward's Profile</h1>
       <p class="text-muted">
         Eduard Florence L. Serna | Information Technology Student
       </p>
